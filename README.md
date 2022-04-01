@@ -1,5 +1,6 @@
 # SytkärinKotelo
-Tokmannin sytkärille kunnon kotelo
+Tokmannin sytkärille kunnon kotelo.
+
 <img src=reppu.png>
 <img src=sytkari.png>
 
